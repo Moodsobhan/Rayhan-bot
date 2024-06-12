@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "primesobhan@gmail.com",
-    "password": "sobhan106",
+    "email": "umc25460@ilebi.com",
+    "password": "Aa456789",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -20,15 +20,15 @@
     "100070056648396",
     "100094183346339",
     "61560128205385",
-    "61560170243143"
+    "61557169379945"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "➪ℜaͥℽhͣaͫή Ᏼo͢Ꭲ",
-  "prefix": ".",
+  "nickNameBot": "𝙋𝙝𝙮𝙩𝙝𝙤𝙣 9𝙓",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
